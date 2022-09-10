@@ -1,12 +1,14 @@
 import styled from "styled-components";
 
+
+
 export const Display = styled.div`
   font-family: monospace;
 
-  height: 30%;
+  height: 400px;
   box-sizing: border-box;
   padding: 20px;
-  width: 95%;
+  width: 760px;
   display: flex;
   line-height: 15px;
   justify-content: center;

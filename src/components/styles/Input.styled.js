@@ -1,10 +1,12 @@
 import styled from "styled-components";
 
+
+
 export const Input = styled.div`
 font-family: monospace;
 margin-top :.5rem;
-height:30%;
-width:95%;
+height:300px;
+width:760px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -16,6 +18,8 @@ border-radius: 12px;
 p{
     font-size: 1.5rem;
 }
+
+
 `;
 
 // range
