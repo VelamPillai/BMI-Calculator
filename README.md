@@ -4,7 +4,7 @@ An web based application , built with React ,styled components, JavaScript, and 
 
 
 ## Project Screen Shot(s)
-![alt screenshot][/public/images/Screenshot.png]
+![My Image](public/images/Screenshot.png)
 
 
 ## Installation and Setup Instructions
