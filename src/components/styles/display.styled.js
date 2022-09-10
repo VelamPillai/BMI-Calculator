@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Display = styled.div`
   font-family: monospace;
 
-  height: 400px;
+  height: 30%;
   box-sizing: border-box;
   padding: 20px;
   width: 95%;

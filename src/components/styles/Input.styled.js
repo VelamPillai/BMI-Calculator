@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Input = styled.div`
 font-family: monospace;
 margin-top :.5rem;
-height:300px;
+height:30%;
 width:95%;
 display: flex;
 justify-content: center;
